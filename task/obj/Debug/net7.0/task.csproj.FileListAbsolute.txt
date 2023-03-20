@@ -1,0 +1,15 @@
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\bin\Debug\net7.0\task.exe
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\bin\Debug\net7.0\task.deps.json
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\bin\Debug\net7.0\task.runtimeconfig.json
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\bin\Debug\net7.0\task.dll
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\bin\Debug\net7.0\task.pdb
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\task.dll
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\refint\task.dll
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\task.pdb
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+E:\Programming\GB lessons\GB_3953_Developer_Markov\C#\Lesson_END\task\obj\Debug\net7.0\ref\task.dll
