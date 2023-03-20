@@ -27,14 +27,14 @@ string[] GetArray(string[] array)
 
 void PrintArray(string[] array)
 {
-    WriteLine($" -> [{string.Join(", ", array)}]");
+    //Конструируем вывод элементов массива в строку с разделителем
+    WriteLine($"[{string.Join(", ", array)}]");
 }
 
 
 string[] array1 = { "hello", "2", "world", ":-)" };
 string[] array2 = { "1234", "1567", "-2", "computer science" };
 string[] array3 = { "Russia", "Denmark", "Kazan" };
-string[] printarray = GetArray(array1);
 
 
 PrintArray(GetArray(array1));
